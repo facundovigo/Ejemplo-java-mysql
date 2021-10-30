@@ -16,7 +16,8 @@ public class Cliente {
 	private Long Cli_Id;
 	@Column
 	private String Cli_RazonSocial;
-	
+
+
 	public Long getId() {
 		return Cli_Id;
 	}
